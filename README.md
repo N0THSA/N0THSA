@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python 3, Docker, and various web development markups.
+- 📫 How to reach me: Email me at [nothsa@noth.page](mailto:nothsa@noth.page)
+- 💬 Ask me about anything computer related! It's my biggest hyperfixation.
 
 <!--
 **N0THSA/N0THSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

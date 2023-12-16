@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python 3, Docker, and various web development markups.
+- 🌱 I’m currently learning Python 3, Docker, C++, and various web development markups.
 - 📫 How to reach me: ~~Email me at [nothsa@noth.page](mailto:nothsa@noth.page)~~ EMAIL SERVER DOWN
 - 💬 Ask me about anything computer related! It's my biggest hyperfixation.
 

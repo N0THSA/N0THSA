@@ -1,7 +1,7 @@
-### Hi there 👋
-- 🌱 I’m currently learning Python 3, Docker, C++, and various web development markups.
-- 📫 How to reach me: ~~Email me at [nothsa@noth.page](mailto:nothsa@noth.page)~~ EMAIL SERVER DOWN
-- 💬 Ask me about anything computer related!
+### sup 
+- im nothsa
+- email me at [nothsa@noth.page](mailto:nothsa@noth.page) (dont, email servers have been down for months and have no chance of being revived)
+- check out my website "blackspace" at https://noth.page:28370/
 
 <!--
 **N0THSA/N0THSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
